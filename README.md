@@ -12,7 +12,11 @@ Latest Version Android Studio
 
 ## ALGORITHM:
 
-
+1. Start a new project in Android Studio.
+2. Design a simple layout(.xml File).
+3. Inside MainActivity.java , create the button function
+4. Create button for colors and fonts while clicking color or font button should change the color and font.
+5. Display corresponding changes in application.  
    
 ## PROGRAM:
 ```
@@ -135,8 +139,17 @@ ublic class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+EMULATOR
+![Screenshot 2024-03-13 134143](https://github.com/SmritiManikand/GUI-components/assets/113674204/ddac0df7-6b09-473a-b476-a1d93a9125cc)
 
+EMULATOR WITH CODE 
+![Screenshot 2024-03-13 134104](https://github.com/SmritiManikand/GUI-components/assets/113674204/b7abc6ad-4383-43d3-b755-0da4683780ab)
 
+FONT COLOR
+![Screenshot 2024-03-13 134305](https://github.com/SmritiManikand/GUI-components/assets/113674204/1ffb1345-4eba-48c3-9f40-c661f3865a0f)
+
+FONT SIZE
+![Screenshot 2024-03-13 134233](https://github.com/SmritiManikand/GUI-components/assets/113674204/e293e8aa-3f29-45e4-bb13-858ac97fb7c5)
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
