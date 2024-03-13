@@ -139,16 +139,20 @@ ublic class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-EMULATOR
+## EMULATOR
+
 ![Screenshot 2024-03-13 134143](https://github.com/SmritiManikand/GUI-components/assets/113674204/ddac0df7-6b09-473a-b476-a1d93a9125cc)
 
-EMULATOR WITH CODE 
+## EMULATOR WITH CODE 
+
 ![Screenshot 2024-03-13 134104](https://github.com/SmritiManikand/GUI-components/assets/113674204/b7abc6ad-4383-43d3-b755-0da4683780ab)
 
-FONT COLOR
+## FONT COLOR
+
 ![Screenshot 2024-03-13 134305](https://github.com/SmritiManikand/GUI-components/assets/113674204/1ffb1345-4eba-48c3-9f40-c661f3865a0f)
 
-FONT SIZE
+## FONT SIZE
+
 ![Screenshot 2024-03-13 134233](https://github.com/SmritiManikand/GUI-components/assets/113674204/e293e8aa-3f29-45e4-bb13-858ac97fb7c5)
 
 ## RESULT
